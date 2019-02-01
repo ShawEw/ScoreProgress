@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScoreProgressView">
+        <attr name="start_score" format="integer|reference" />
+        <attr name="total_score" format="integer|reference" />
+        <attr name="score_height" format="dimension|reference" />
+        <attr name="score_text_size" format="reference|dimension" />
+        <attr name="back_color" format="color|reference" />
+        <attr name="fore_color" format="color|reference" />
+        <attr name="info_color" format="color|reference" />
+        <attr name="rect_corn" format="dimension|reference" />
+    </declare-styleable>
+
+</resources>
