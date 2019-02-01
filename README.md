@@ -1,6 +1,8 @@
 # ScoreProgress
 自定义分数进度条
 
+## 效果图
+![效果图](https://github.com/ShawEw/ScoreProgress/blob/master/ScoreProgressView/device2019-02-01-092326.png?raw=true)
 ## maven使用
 ```
 allprojects {
